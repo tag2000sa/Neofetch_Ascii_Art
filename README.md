@@ -11,7 +11,7 @@ you need to install neofetch software first, follow the insttruction in the foll
 you can use the config.conf file or you can use --file-flags to run the art
 
 ## Example
-$ neofetch --ascii ~/Neofetch_Ascii_Art/Lannister --ascii_colors 1 2 190 3 4 5 6 
+$ neofetch --ascii ~/Neofetch_Ascii_Art/Lannister --ascii_colors 160 2 190 3 4 5 6 
 
 ## License
 
