@@ -12,6 +12,7 @@ you can use the config.conf file or you can use --file-flags to run the art
 
 ## Example
 $ neofetch --ascii ~/Neofetch_Ascii_Art/Lannister --ascii_colors 160 2 190 3 4 5 6 
+![alt text](https://github.com/tag2000sa/Neofetch_Ascii_Art/blob/master/neofetch.png)
 
 ## License
 
